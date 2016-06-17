@@ -1,0 +1,28 @@
+name: ChiaraBorrello
+favicon: null
+layout_spectrum: 0.7636724833864719
+typography_spectrum: 0.26418236177414656
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2928401934914291
+  lightness: 0.8232040172442794
+  saturation: 0.31185019062832
+  rhythmicContrast: 0.7714978936128318
+purpose: []
